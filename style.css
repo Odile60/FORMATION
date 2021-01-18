@@ -1,0 +1,185 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: rgb(40, 38, 44 );
+
+}
+#bandeau{
+    display: inline-block;
+    box-sizing: border-box;
+    border-bottom: rgba(40, 38, 44, 0.363);
+    position: fixed;
+    width: 100%;
+    background-color: rgb(40, 38, 44 );   
+    height: 220px;
+    text-align: center;
+    padding-right: 100px;
+    
+    }
+     
+    
+header{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-shadow: black;
+    margin-top: 20px;
+    margin-left: 180px;
+    text-align: left;
+
+   
+}
+#header{
+    font-size: 18px;
+    font-style: italic;
+    color: rgb(201, 39, 39);
+    margin-top: 5px;
+    margin-left: 180px;
+    text-align: left;
+}
+
+#header2{
+    font-size: 18px;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    margin-top: 5px;
+    margin-left: 180px;
+    text-align: left;
+}
+.logo{
+    float: left;
+    margin: 20px 0 0 30px ;
+}
+ ul{
+     display: inline-block;;
+     list-style-type: none;
+     margin-top: 0px;
+     padding-bottom: 10px;
+     
+    
+
+     
+     
+    
+ }
+ li a{
+    color: white;
+    text-decoration:none;
+    
+    
+   
+ }
+
+ #Motivation{     
+     margin-left: 250px;
+     margin-right: 250px;
+     background-color: white;
+     font-size: 15px;
+     padding-left: 120px;
+     padding-right: 120px;
+     padding-top: 280px;
+     padding-bottom: 60px ;
+     font-weight: normal;
+     
+ }
+
+ p{
+     margin-bottom: 15px;
+ }
+
+ #Presentation{     
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: white;
+    font-size: 15px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 280px;
+    padding-bottom: 60px ;
+    font-weight: normal;
+}
+.titre{
+    font-size: 28px;
+    color: #54479c;
+    text-decoration: underline;
+    
+
+}
+.soustitre{
+    font-size: 18px;
+    font-style: italic;
+}
+#oclock{     
+    border: radius 10px; ;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: white;
+    font-size: 15px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 280px;
+    padding-bottom: 60px ;
+    font-weight: normal;
+}
+#marche{     
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: white;
+    font-size: 15px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 280px;
+    padding-bottom: 60px ;
+    font-weight: normal;
+}
+
+
+.avis{
+    display: inline-block;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 100px;
+    padding-bottom: 60px ;
+    background-color: white;
+    
+}
+#questionnaire{     
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: white;
+    font-size: 15px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 280px;
+    padding-bottom: 60px ;
+    font-weight: normal;}
+
+    .question{
+        font-size: 22px;
+    color: #54479c;
+    
+    }
+
+    #annexes{     
+        margin-left: 250px;
+        margin-right: 250px;
+        
+        background-color: white;
+        font-size: 15px;
+        padding-left: 120px;
+        padding-right: 120px;
+        padding-top: 280px;
+        padding-bottom: 60px ;
+        font-weight: normal;
+    }
+        #sommaire{
+            color: rgb(0, 0, 0);}
+        
