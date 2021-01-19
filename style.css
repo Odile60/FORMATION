@@ -52,7 +52,7 @@ header{
     margin-left: 180px;
     text-align: left;
 }
-.logo{
+.logo{ 
     float: left;
     margin: 20px 0 0 30px ;
 }
@@ -68,13 +68,18 @@ header{
      
     
  }
+
+ 
  li a{
     color: white;
     text-decoration:none;
-    
-    
+
+   }  
+ a:hover{
+     color: rgb(201, 39, 39);
+    }
    
- }
+
 
  #Motivation{     
      margin-left: 250px;
